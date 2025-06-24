@@ -33,6 +33,15 @@ title: Chairunnisa Amanda
     <!-- All your experience blocks go here -->
     <div class="d-flex flex-column flex-md-row justify-content-between">
         <div class="flex-grow-1">
+            <h3 class="mb-0">Research Assistant</h3>
+              <div class="subheading mb-3">Tropical Biopharmaca Research Centre, IPB University</div>
+                  <p>Contributed to natural product-based drug discovery research at a leading Indonesian institute focused on bioinformatics and biodiversity.
+</p>
+              </div>
+              <div class="flex-shrink-0"><span class="text-primary">June 2024 - Current</span></div>
+              </div>
+    <div class="d-flex flex-column flex-md-row justify-content-between">
+        <div class="flex-grow-1">
             <h3 class="mb-0">Project-Based Virtual Intern: Health System Analyst</h3>
               <div class="subheading mb-3">KlinikGo x Rakamin Academy</div>
                   <p>As an intern health system analyst, I created comprehensive project documentation and supported various aspects of health system analysis to enhance project execution and documentation accuracy.</p>
@@ -142,9 +151,10 @@ title: Chairunnisa Amanda
 <section class="resume-section" id="interests">
   <div class="resume-section-content">
     <h2 class="mb-5">Interests</h2>
-    <p>Aside from being an aspiring bioinformatician, I enjoy researching...</p>
-    <p>Apart from being an aspiring bioinformatician, I enjoy researching about various fields that amused me from history, genealogy to archeology.</p>
+    <p class="mb-0">Apart from being an aspiring bioinformatician, I enjoy researching about various fields that amused me from history, genealogy to archeology.</p>
     <p class="mb-0">I love to spend my free time playing and listening to music and reading wikipedia (for fun, not for references).</p>
+    <p class="mb-0">Check out my blog for more!</p>
+
   </div>
 </section>
 
