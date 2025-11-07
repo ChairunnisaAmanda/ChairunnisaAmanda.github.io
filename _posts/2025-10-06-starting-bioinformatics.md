@@ -2,7 +2,7 @@
 layout: post
 title: "How I Started in Bioinformatics with Zero Background"
 ---
-How I Started in Bioinformatics with Zero Background
+
 
 I never had a big reason for choosing bioinformatics. It just sounded interesting at the time. Maybe it was the mix of biology and technology that caught my attention, or maybe I was just curious about something new. Whatever it was, I found myself starting a degree in bioinformatics in the middle of the pandemic, trying to figure out what I had just signed up for.
 
@@ -16,34 +16,33 @@ Before classes started, I decided to prepare myself with whatever I could find o
 
 I started with **Khan Academy’s AP Biology**. It was free, easy to follow, and helped me get used to listening and thinking in English. The lessons covered fundamental topics like cell biology and genetics, and going through them made me feel a little more confident before entering my first semester.
 
-<aside>
-
-Read more on [Khan Academy](https://www.khanacademy.org/science/ap-biology).
-
-</aside>
+> Read more on [Khan Academy](https://www.khanacademy.org/science/ap-biology).
 
 
 ### 2. Harvard CS50
 
 Around the same time, I discovered **Harvard’s CS50**, the famous *Introduction to Computer Science* course available on YouTube. I watched the 2020 version, where Professor David Malan taught an online class. It was my very first exposure to programming. I learned about algorithms, logic, and problem-solving — things that once sounded intimidating but turned out to be surprisingly fascinating.
 
-<aside>
-Read more on [Khan Academy](https://www.khanacademy.org/science/ap-biology).
-</aside>
+> Read more on [Harvard Online](https://harvardonline.harvard.edu/course/cs50-introduction-computer-science).
 
 
 ### 3. Campbell Biology
 
 During my first year, **Campbell Biology** became my best reference. Campbell Biology is a widely used biology textbook in introductory biology courses and AP Biology courses across the globe. It was not free, but I could always find copies in the library. The book helped me connect what I already knew from high school to the bigger concepts in university. Having a clear structure made it easier to stay organised and motivated.
 
-<aside>
-
-Read more on [Pearson](https://www.pearson.com/se/Nordics-Higher-Education/subject-catalogue/biology/campbell-biology-ge.html).
-</aside>
+> Read more on [Pearson](https://www.pearson.com/se/Nordics-Higher-Education/subject-catalogue/biology/campbell-biology-ge.html).
 
 
 ---
 
-Looking back, I was just a 17-year-old beginner who had no idea what bioinformatics really was. I learned everything from the ground up, sometimes slowly, often by making mistakes. But that process made me realise that it is okay to start from zero.
+I have also tried enrolling myself in bioinformatics courses at Coursera but I found that to be too advance. So I just wait until second year, because I was going to learn it in class anyway. Looking back, I was just a 17-year-old high school leaver who had no idea what bioinformatics really was. I learned everything from the ground up, sometimes slowly, often by making mistakes. But that process made me realise that it is okay to start from zero.
 
 Studying bioinformatics taught me how to learn, not just about genes or code, but about adapting, staying curious, and growing through uncertainty.
+
+<div style="margin-top: 2rem; padding: 1rem; background-color: #f6f6f6; border-radius: 8px; font-size: 0.9em; color: #555;">
+  <em>Also published on 
+  <a href="https://medium.com/@amandadermawan1" target="_blank" style="color: #3366cc; text-decoration: none;">
+    Medium
+  </a>.
+  </em>
+</div>
